@@ -31,7 +31,7 @@
     "nodemailer": "^6.3.0",
     "nodemailer-sendgrid-transport": "^0.2.0",
     "nodemon": "^1.19.2",
-    "otp-generator": "^1.1.0",
+    "otp-generator": "^3.0.0",
     "razorpay": "^2.0.5",
     "react-render-html": "^0.6.0",
     "shortid": "^2.2.10",
